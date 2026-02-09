@@ -1,0 +1,6 @@
+
+{
+  "name": "ProTrade Journal",
+  "description": "A high-performance trading journal with automated P&L calculations, interactive dashboard, Excel synchronization, and AI-powered strategy analysis using Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
